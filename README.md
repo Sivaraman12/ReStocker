@@ -1,2 +1,2 @@
 # ReStocker
-An Inventory Management System for Retailers Webpage developed using Flask, IBM DB and SendGrid API
+Webpage made to manage and analyze the inventory for retailers easily developed using Flask, IBM DB and SendGrid API
